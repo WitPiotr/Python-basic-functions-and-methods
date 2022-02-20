@@ -1,4 +1,4 @@
-# Python-basic-functions
+# Python-basic-functions-and-methods
 
 In this repository I would like to show you simple Python functions and methods.
 
